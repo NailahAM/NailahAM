@@ -1,7 +1,3 @@
-- 😊 Hi, I’m Nailah!
-- 🌷 I’m interested in plants, books, and jewelry!
-- 👓 I’m currently learning Systems Programming!
-- 👩🏾‍💻 I’m learning how to code through Atlas School!
-- 📫 You can reach me via email nailahmarkham@gmail.com
-- ✨ Pronouns: she/her/hers
-- 🐢 Fun fact: My favorite color is green! 
+I am a student at Atlas School specializing in systems programming, with a strong interest in how software interacts with the core components of the Linux operating system. Through my education, I’ve gained hands-on experience in system-level development, resource management, and working closely with the Linux platform. I’m also developing skills in embedded programming, designing and implementing applications that run efficiently on constrained hardware. My professional focus is on building reliable, low-level software and deepening my understanding of how systems operate under the hood.
+
+Contact: nailahmarkham@gmail.com 
